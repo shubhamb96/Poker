@@ -2,7 +2,7 @@
 
 The program is currently terminal only, with a cross platform implementation planned for future
 
-TO RUN from terminal:-
+To RUN from terminal:-
 
 javac ./src/*.java -d ./bin/
 
